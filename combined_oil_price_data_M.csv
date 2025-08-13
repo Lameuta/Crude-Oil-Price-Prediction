@@ -1,0 +1,459 @@
+Date,DataType,Model,Value
+2000-01-31,Historical Actual,Actual,32.04999923706055
+2000-02-29,Historical Actual,Actual,32.04999923706055
+2000-03-31,Historical Actual,Actual,32.04999923706055
+2000-04-30,Historical Actual,Actual,32.04999923706055
+2000-05-31,Historical Actual,Actual,32.04999923706055
+2000-06-30,Historical Actual,Actual,32.04999923706055
+2000-07-31,Historical Actual,Actual,32.04999923706055
+2000-08-31,Historical Actual,Actual,32.20086893828019
+2000-09-30,Historical Actual,Actual,33.84761919294085
+2000-10-31,Historical Actual,Actual,32.97318172454834
+2000-11-30,Historical Actual,Actual,34.36772762645375
+2000-12-31,Historical Actual,Actual,28.25142851329985
+2001-01-31,Historical Actual,Actual,29.302272709933195
+2001-02-28,Historical Actual,Actual,29.619999885559082
+2001-03-31,Historical Actual,Actual,27.26318177309903
+2001-04-30,Historical Actual,Actual,27.654285975864955
+2001-05-31,Historical Actual,Actual,28.6708694126295
+2001-06-30,Historical Actual,Actual,27.58809516543434
+2001-07-31,Historical Actual,Actual,26.456818147139117
+2001-08-31,Historical Actual,Actual,27.306521705959153
+2001-09-30,Historical Actual,Actual,26.244999885559082
+2001-10-31,Historical Actual,Actual,22.21347833716351
+2001-11-30,Historical Actual,Actual,19.60499988902699
+2001-12-31,Historical Actual,Actual,19.427143187749955
+2002-01-31,Historical Actual,Actual,19.668636322021484
+2002-02-28,Historical Actual,Actual,20.788999938964842
+2002-03-31,Historical Actual,Actual,24.521428516932897
+2002-04-30,Historical Actual,Actual,26.260000055486504
+2002-05-31,Historical Actual,Actual,26.88913046795389
+2002-06-30,Historical Actual,Actual,25.550500011444093
+2002-07-31,Historical Actual,Actual,26.927391218102496
+2002-08-31,Historical Actual,Actual,28.204545454545453
+2002-09-30,Historical Actual,Actual,29.649047579084122
+2002-10-31,Historical Actual,Actual,28.86347828740659
+2002-11-30,Historical Actual,Actual,26.25619043622698
+2002-12-31,Historical Actual,Actual,29.510454698042437
+2003-01-31,Historical Actual,Actual,32.75409056923606
+2003-02-28,Historical Actual,Actual,35.786499977111816
+2003-03-31,Historical Actual,Actual,33.15619050888788
+2003-04-30,Historical Actual,Actual,28.245454354719683
+2003-05-31,Historical Actual,Actual,28.119999972256746
+2003-06-30,Historical Actual,Actual,30.519523893083846
+2003-07-31,Historical Actual,Actual,30.689999953560207
+2003-08-31,Historical Actual,Actual,31.597142900739396
+2003-09-30,Historical Actual,Actual,28.459545395591043
+2003-10-31,Historical Actual,Actual,30.345217331596043
+2003-11-30,Historical Actual,Actual,30.99149971008301
+2003-12-31,Historical Actual,Actual,32.20478281767472
+2004-01-31,Historical Actual,Actual,34.10818186673251
+2004-02-29,Historical Actual,Actual,34.50149993896484
+2004-03-31,Historical Actual,Actual,36.718260391898774
+2004-04-30,Historical Actual,Actual,36.64045455239036
+2004-05-31,Historical Actual,Actual,40.260952540806365
+2004-06-30,Historical Actual,Actual,38.06772734902122
+2004-07-31,Historical Actual,Actual,40.697727550159804
+2004-08-31,Historical Actual,Actual,44.883636474609375
+2004-09-30,Historical Actual,Actual,45.84909109635787
+2004-10-31,Historical Actual,Actual,53.09380885532924
+2004-11-30,Historical Actual,Actual,48.563181443647906
+2004-12-31,Historical Actual,Actual,43.30478236986243
+2005-01-31,Historical Actual,Actual,46.924285888671875
+2005-02-28,Historical Actual,Actual,48.06799964904785
+2005-03-31,Historical Actual,Actual,54.63869575832201
+2005-04-30,Historical Actual,Actual,53.217619214739116
+2005-05-31,Historical Actual,Actual,49.96090871637518
+2005-06-30,Historical Actual,Actual,56.419545433738016
+2005-07-31,Historical Actual,Actual,59.01285698300316
+2005-08-31,Historical Actual,Actual,64.9934778628142
+2005-09-30,Historical Actual,Actual,65.64409117265181
+2005-10-31,Historical Actual,Actual,62.26857176281157
+2005-11-30,Historical Actual,Actual,58.3759089383212
+2005-12-31,Historical Actual,Actual,59.40090907703746
+2006-01-31,Historical Actual,Actual,65.25954489274459
+2006-02-28,Historical Actual,Actual,61.82600002288818
+2006-03-31,Historical Actual,Actual,62.96608700959579
+2006-04-30,Historical Actual,Actual,70.1189998626709
+2006-05-31,Historical Actual,Actual,70.97913062054178
+2006-06-30,Historical Actual,Actual,70.97181805697355
+2006-07-31,Historical Actual,Actual,74.41714368547711
+2006-08-31,Historical Actual,Actual,73.08347818125849
+2006-09-30,Historical Actual,Actual,64.09142830258324
+2006-10-31,Historical Actual,Actual,59.136818105524235
+2006-11-30,Historical Actual,Actual,59.38818203319203
+2006-12-31,Historical Actual,Actual,62.10190455118815
+2007-01-31,Historical Actual,Actual,54.87652189835258
+2007-02-28,Historical Actual,Actual,59.388000106811525
+2007-03-31,Historical Actual,Actual,60.740454413674094
+2007-04-30,Historical Actual,Actual,64.04761850266229
+2007-05-31,Historical Actual,Actual,63.603477975596554
+2007-06-30,Historical Actual,Actual,67.52952394031342
+2007-07-31,Historical Actual,Actual,74.02590838345614
+2007-08-31,Historical Actual,Actual,72.35869631559953
+2007-09-30,Historical Actual,Actual,79.34700050354004
+2007-10-31,Historical Actual,Actual,85.65826084302819
+2007-11-30,Historical Actual,Actual,94.75227251919833
+2007-12-31,Historical Actual,Actual,91.85618954613095
+2008-01-31,Historical Actual,Actual,92.95913032863452
+2008-02-29,Historical Actual,Actual,95.35618954613095
+2008-03-31,Historical Actual,Actual,105.24952370779855
+2008-04-30,Historical Actual,Actual,112.46272798018022
+2008-05-31,Historical Actual,Actual,125.76454648104581
+2008-06-30,Historical Actual,Actual,134.01571437290735
+2008-07-31,Historical Actual,Actual,133.99782529084578
+2008-08-31,Historical Actual,Actual,116.68809472946893
+2008-09-30,Historical Actual,Actual,104.2954548922452
+2008-10-31,Historical Actual,Actual,76.723911948826
+2008-11-30,Historical Actual,Actual,57.29100017547607
+2008-12-31,Historical Actual,Actual,41.75130379718283
+2009-01-31,Historical Actual,Actual,41.799090992320664
+2009-02-28,Historical Actual,Actual,39.17099933624267
+2009-03-31,Historical Actual,Actual,48.061818382956766
+2009-04-30,Historical Actual,Actual,50.05363620411266
+2009-05-31,Historical Actual,Actual,59.32952372233073
+2009-06-30,Historical Actual,Actual,69.69545537775213
+2009-07-31,Historical Actual,Actual,64.39913111147673
+2009-08-31,Historical Actual,Actual,71.13857160295758
+2009-09-30,Historical Actual,Actual,69.4022726579146
+2009-10-31,Historical Actual,Actual,75.823636488481
+2009-11-30,Historical Actual,Actual,78.13619050525483
+2009-12-31,Historical Actual,Actual,74.75304446013078
+2010-01-31,Historical Actual,Actual,78.42904772077289
+2010-02-28,Historical Actual,Actual,76.33650016784668
+2010-03-31,Historical Actual,Actual,81.28999992038892
+2010-04-30,Historical Actual,Actual,84.58863587812944
+2010-05-31,Historical Actual,Actual,74.11047762916202
+2010-06-30,Historical Actual,Actual,75.40454587069425
+2010-07-31,Historical Actual,Actual,76.19000036066228
+2010-08-31,Historical Actual,Actual,76.66681705821644
+2010-09-30,Historical Actual,Actual,75.50545397671786
+2010-10-31,Historical Actual,Actual,81.97476232619513
+2010-11-30,Historical Actual,Actual,84.29409061778675
+2010-12-31,Historical Actual,Actual,89.33217388650645
+2011-01-31,Historical Actual,Actual,89.67190515427362
+2011-02-28,Historical Actual,Actual,89.56599960327148
+2011-03-31,Historical Actual,Actual,102.98130466627038
+2011-04-30,Historical Actual,Actual,110.14571489606585
+2011-05-31,Historical Actual,Actual,101.32181791825728
+2011-06-30,Historical Actual,Actual,96.28863664106889
+2011-07-31,Historical Actual,Actual,97.22619047619048
+2011-08-31,Historical Actual,Actual,86.34086973770805
+2011-09-30,Historical Actual,Actual,85.64818087491122
+2011-10-31,Historical Actual,Actual,86.42809513636998
+2011-11-30,Historical Actual,Actual,97.11772710626775
+2011-12-31,Historical Actual,Actual,98.62590824473988
+2012-01-31,Historical Actual,Actual,100.17727175625888
+2012-02-29,Historical Actual,Actual,102.30904715401786
+2012-03-31,Historical Actual,Actual,106.20499940352006
+2012-04-30,Historical Actual,Actual,103.3442858741397
+2012-05-31,Historical Actual,Actual,94.54826155952786
+2012-06-30,Historical Actual,Actual,82.40523819696335
+2012-07-31,Historical Actual,Actual,87.91909131136808
+2012-08-31,Historical Actual,Actual,94.16087009595788
+2012-09-30,Historical Actual,Actual,94.65400085449218
+2012-10-31,Historical Actual,Actual,89.62913048785666
+2012-11-30,Historical Actual,Actual,86.76181723854758
+2012-12-31,Historical Actual,Actual,88.26285734630767
+2013-01-31,Historical Actual,Actual,94.72956450089164
+2013-02-28,Historical Actual,Actual,95.34850006103515
+2013-03-31,Historical Actual,Actual,93.1604755946568
+2013-04-30,Historical Actual,Actual,92.06772752241655
+2013-05-31,Historical Actual,Actual,94.77130491837211
+2013-06-30,Historical Actual,Actual,95.80049934387208
+2013-07-31,Historical Actual,Actual,104.54826089610224
+2013-08-31,Historical Actual,Actual,106.53909128362483
+2013-09-30,Historical Actual,Actual,106.30285680861701
+2013-10-31,Historical Actual,Actual,100.55260799242103
+2013-11-30,Historical Actual,Actual,93.85380953834171
+2013-12-31,Historical Actual,Actual,97.95454580133611
+2014-01-31,Historical Actual,Actual,94.99043539296026
+2014-02-28,Historical Actual,Actual,100.65649948120117
+2014-03-31,Historical Actual,Actual,100.50904737200055
+2014-04-30,Historical Actual,Actual,102.13772756403142
+2014-05-31,Historical Actual,Actual,101.91090878573331
+2014-06-30,Historical Actual,Actual,105.14666748046875
+2014-07-31,Historical Actual,Actual,102.46434717592986
+2014-08-31,Historical Actual,Actual,96.07619040352958
+2014-09-30,Historical Actual,Actual,93.16727239435369
+2014-10-31,Historical Actual,Actual,84.33912924061651
+2014-11-30,Historical Actual,Actual,75.7040008544922
+2014-12-31,Historical Actual,Actual,59.13956468001656
+2015-01-31,Historical Actual,Actual,47.65772732821378
+2015-02-28,Historical Actual,Actual,50.827499580383304
+2015-03-31,Historical Actual,Actual,47.854090603915125
+2015-04-30,Historical Actual,Actual,54.37863662026145
+2015-05-31,Historical Actual,Actual,59.388571421305336
+2015-06-30,Historical Actual,Actual,59.82863651622426
+2015-07-31,Historical Actual,Actual,51.19086970453677
+2015-08-31,Historical Actual,Actual,42.88904771350679
+2015-09-30,Historical Actual,Actual,45.49181834134188
+2015-10-31,Historical Actual,Actual,46.289545405994765
+2015-11-30,Historical Actual,Actual,42.92857161022368
+2015-12-31,Historical Actual,Actual,37.36086936618971
+2016-01-31,Historical Actual,Actual,31.914285750616166
+2016-02-29,Historical Actual,Actual,30.56047621227446
+2016-03-31,Historical Actual,Actual,38.02608689017918
+2016-04-30,Historical Actual,Actual,41.12476185389927
+2016-05-31,Historical Actual,Actual,46.9118182442405
+2016-06-30,Historical Actual,Actual,48.85318166559393
+2016-07-31,Historical Actual,Actual,44.9990474155971
+2016-08-31,Historical Actual,Actual,44.79913081293521
+2016-09-30,Historical Actual,Actual,45.190000013871625
+2016-10-31,Historical Actual,Actual,49.866666702997115
+2016-11-30,Historical Actual,Actual,45.92090884121981
+2016-12-31,Historical Actual,Actual,52.204546148126774
+2017-01-31,Historical Actual,Actual,52.64818156849254
+2017-02-28,Historical Actual,Actual,53.45900039672851
+2017-03-31,Historical Actual,Actual,49.673913209334664
+2017-04-30,Historical Actual,Actual,51.2205005645752
+2017-05-31,Historical Actual,Actual,48.59434807818869
+2017-06-30,Historical Actual,Actual,45.19590950012207
+2017-07-31,Historical Actual,Actual,46.693809872581845
+2017-08-31,Historical Actual,Actual,48.05782566899838
+2017-09-30,Historical Actual,Actual,49.753809429350355
+2017-10-31,Historical Actual,Actual,51.594545884565875
+2017-11-30,Historical Actual,Actual,56.7245457389138
+2017-12-31,Historical Actual,Actual,57.97190475463867
+2018-01-31,Historical Actual,Actual,63.546087182086445
+2018-02-28,Historical Actual,Actual,62.15850009918213
+2018-03-31,Historical Actual,Actual,62.87045478820801
+2018-04-30,Historical Actual,Actual,66.32523781912667
+2018-05-31,Historical Actual,Actual,69.89173822817595
+2018-06-30,Historical Actual,Actual,67.32285672142392
+2018-07-31,Historical Actual,Actual,70.74363673817028
+2018-08-31,Historical Actual,Actual,67.84521782916525
+2018-09-30,Historical Actual,Actual,70.0705005645752
+2018-10-31,Historical Actual,Actual,70.75782610022503
+2018-11-30,Historical Actual,Actual,56.599545045332476
+2018-12-31,Historical Actual,Actual,48.6928578331357
+2019-01-31,Historical Actual,Actual,51.38130436772885
+2019-02-28,Historical Actual,Actual,55.01099967956543
+2019-03-31,Historical Actual,Actual,58.16809517996652
+2019-04-30,Historical Actual,Actual,63.87681839682839
+2019-05-31,Historical Actual,Actual,60.76826078995414
+2019-06-30,Historical Actual,Actual,54.70650024414063
+2019-07-31,Historical Actual,Actual,57.53739149674125
+2019-08-31,Historical Actual,Actual,54.844090548428625
+2019-09-30,Historical Actual,Actual,56.87809517270043
+2019-10-31,Historical Actual,Actual,54.00565255206564
+2019-11-30,Historical Actual,Actual,57.11952391124907
+2019-12-31,Historical Actual,Actual,59.8640910061923
+2020-01-31,Historical Actual,Actual,57.72608748726223
+2020-02-29,Historical Actual,Actual,50.61749973297119
+2020-03-31,Historical Actual,Actual,30.445454597473145
+2020-04-30,Historical Actual,Actual,16.974545522169635
+2020-05-31,Historical Actual,Actual,28.7523809160505
+2020-06-30,Historical Actual,Actual,38.313636086203836
+2020-07-31,Historical Actual,Actual,40.7608697310738
+2020-08-31,Historical Actual,Actual,42.38809512910389
+2020-09-30,Historical Actual,Actual,39.632272546941586
+2020-10-31,Historical Actual,Actual,39.55454531582919
+2020-11-30,Historical Actual,Actual,41.55428604852585
+2020-12-31,Historical Actual,Actual,47.118695300558336
+2021-01-31,Historical Actual,Actual,51.943809872581845
+2021-02-28,Historical Actual,Actual,59.08150005340576
+2021-03-31,Historical Actual,Actual,62.357391357421875
+2021-04-30,Historical Actual,Actual,61.692273053255946
+2021-05-31,Historical Actual,Actual,65.21238072713216
+2021-06-30,Historical Actual,Actual,71.3527287569913
+2021-07-31,Historical Actual,Actual,72.55454600941052
+2021-08-31,Historical Actual,Actual,67.71136318553577
+2021-09-30,Historical Actual,Actual,71.44227287986062
+2021-10-31,Historical Actual,Actual,81.22285752069382
+2021-11-30,Historical Actual,Actual,78.64181795987216
+2021-12-31,Historical Actual,Actual,71.78130506432575
+2022-01-31,Historical Actual,Actual,83.01904769170852
+2022-02-28,Historical Actual,Actual,91.60099945068359
+2022-03-31,Historical Actual,Actual,108.26217385996942
+2022-04-30,Historical Actual,Actual,101.89333270844959
+2022-05-31,Historical Actual,Actual,109.52363551746716
+2022-06-30,Historical Actual,Actual,114.12181854248047
+2022-07-31,Historical Actual,Actual,99.81523786272321
+2022-08-31,Historical Actual,Actual,91.48260862930961
+2022-09-30,Historical Actual,Actual,83.94136394153942
+2022-10-31,Historical Actual,Actual,87.03095245361328
+2022-11-30,Historical Actual,Actual,84.09272766113281
+2022-12-31,Historical Actual,Actual,76.65636340054598
+2023-01-31,Historical Actual,Actual,78.33636405251242
+2023-02-28,Historical Actual,Actual,76.83449935913086
+2023-03-31,Historical Actual,Actual,73.37260934580927
+2023-04-30,Historical Actual,Actual,79.50150032043457
+2023-05-31,Historical Actual,Actual,71.66652181874151
+2023-06-30,Historical Actual,Actual,70.34272696755149
+2023-07-31,Historical Actual,Actual,75.73714265369233
+2023-08-31,Historical Actual,Actual,81.3208697775136
+2023-09-30,Historical Actual,Actual,89.24571446010044
+2023-10-31,Historical Actual,Actual,85.46681837602095
+2023-11-30,Historical Actual,Actual,77.36409135298295
+2023-12-31,Historical Actual,Actual,72.19190470377605
+2024-01-31,Historical Actual,Actual,73.7134780883789
+2024-02-29,Historical Actual,Actual,76.73285747709728
+2024-03-31,Historical Actual,Actual,80.53666650681268
+2024-04-30,Historical Actual,Actual,84.39409117265181
+2024-05-31,Historical Actual,Actual,78.58217454993206
+2024-06-30,Historical Actual,Actual,78.84200019836426
+2024-07-31,Historical Actual,Actual,80.62913048785666
+2024-08-31,Historical Actual,Actual,75.4336367520419
+2024-09-30,Historical Actual,Actual,69.57142820812408
+2024-10-31,Historical Actual,Actual,71.5617383873981
+2024-11-30,Historical Actual,Actual,69.50476183210101
+2024-12-31,Historical Actual,Actual,69.7159090909091
+2025-01-31,Historical Actual,Actual,75.22454521872781
+2025-02-28,Historical Actual,Actual,71.18549995422363
+2025-03-31,Historical Actual,Actual,67.93952469598679
+2025-04-30,Historical Actual,Actual,63.04045434431596
+2025-05-31,Historical Actual,Actual,60.9622728174383
+2025-06-30,Historical Actual,Actual,67.69809523082915
+2025-07-31,Historical Actual,Actual,67.21086883544922
+2025-08-31,Historical Actual,Actual,65.78250122070312
+2003-01-31,Backtest Prediction,Linear Regression,24.157984222540108
+2003-02-28,Backtest Prediction,Linear Regression,39.98770154244994
+2003-03-31,Backtest Prediction,Linear Regression,62.07091478967777
+2003-04-30,Backtest Prediction,Linear Regression,39.343128557161435
+2003-05-31,Backtest Prediction,Linear Regression,33.157357497375415
+2003-06-30,Backtest Prediction,Linear Regression,35.049778980846895
+2003-07-31,Backtest Prediction,Linear Regression,26.22175790484107
+2003-08-31,Backtest Prediction,Linear Regression,33.56855710916534
+2003-09-30,Backtest Prediction,Linear Regression,37.03842310010441
+2003-10-31,Backtest Prediction,Linear Regression,26.66727493372855
+2003-11-30,Backtest Prediction,Linear Regression,30.012342006475592
+2003-12-31,Backtest Prediction,Linear Regression,30.23278370884691
+2004-01-31,Backtest Prediction,Linear Regression,36.950258221524564
+2004-02-29,Backtest Prediction,Linear Regression,32.988972778333846
+2004-03-31,Backtest Prediction,Linear Regression,32.70694753510179
+2004-04-30,Backtest Prediction,Linear Regression,53.19948900857344
+2004-05-31,Backtest Prediction,Linear Regression,37.15109677884084
+2004-06-30,Backtest Prediction,Linear Regression,41.7193459179075
+2004-07-31,Backtest Prediction,Linear Regression,36.83305870460981
+2004-08-31,Backtest Prediction,Linear Regression,32.74788858699776
+2004-09-30,Backtest Prediction,Linear Regression,45.645437985280296
+2004-10-31,Backtest Prediction,Linear Regression,41.454006870081685
+2004-11-30,Backtest Prediction,Linear Regression,56.47120651050409
+2004-12-31,Backtest Prediction,Linear Regression,55.10362868830134
+2003-01-31,Backtest Prediction,Ridge Regression,37.03628802520211
+2003-02-28,Backtest Prediction,Ridge Regression,33.90063549472734
+2003-03-31,Backtest Prediction,Ridge Regression,41.45001939057488
+2003-04-30,Backtest Prediction,Ridge Regression,33.83109802893114
+2003-05-31,Backtest Prediction,Ridge Regression,25.697192083609025
+2003-06-30,Backtest Prediction,Ridge Regression,32.85736882400704
+2003-07-31,Backtest Prediction,Ridge Regression,26.262015551806485
+2003-08-31,Backtest Prediction,Ridge Regression,29.178630808488094
+2003-09-30,Backtest Prediction,Ridge Regression,33.88424906826259
+2003-10-31,Backtest Prediction,Ridge Regression,28.06686124147027
+2003-11-30,Backtest Prediction,Ridge Regression,31.226284588740555
+2003-12-31,Backtest Prediction,Ridge Regression,29.9211932665969
+2004-01-31,Backtest Prediction,Ridge Regression,36.34367844775841
+2004-02-29,Backtest Prediction,Ridge Regression,34.96816887789521
+2004-03-31,Backtest Prediction,Ridge Regression,34.25197620504832
+2004-04-30,Backtest Prediction,Ridge Regression,36.71170127028313
+2004-05-31,Backtest Prediction,Ridge Regression,36.35492860903901
+2004-06-30,Backtest Prediction,Ridge Regression,39.569576952369346
+2004-07-31,Backtest Prediction,Ridge Regression,35.63762435611045
+2004-08-31,Backtest Prediction,Ridge Regression,38.38412001664295
+2004-09-30,Backtest Prediction,Ridge Regression,45.06417554093119
+2004-10-31,Backtest Prediction,Ridge Regression,45.65623339451135
+2004-11-30,Backtest Prediction,Ridge Regression,57.37482156781664
+2004-12-31,Backtest Prediction,Ridge Regression,50.94465057415755
+2003-01-31,Backtest Prediction,Random Forest,28.221793766319706
+2003-02-28,Backtest Prediction,Random Forest,30.764676840485084
+2003-03-31,Backtest Prediction,Random Forest,33.3941027123372
+2003-04-30,Backtest Prediction,Random Forest,32.726580993779436
+2003-05-31,Backtest Prediction,Random Forest,29.9526736034549
+2003-06-30,Backtest Prediction,Random Forest,31.331611104290655
+2003-07-31,Backtest Prediction,Random Forest,30.183555634680076
+2003-08-31,Backtest Prediction,Random Forest,30.888283946379953
+2003-09-30,Backtest Prediction,Random Forest,31.044994926614176
+2003-10-31,Backtest Prediction,Random Forest,30.57319434137772
+2003-11-30,Backtest Prediction,Random Forest,31.061513949357785
+2003-12-31,Backtest Prediction,Random Forest,31.109972440824777
+2004-01-31,Backtest Prediction,Random Forest,31.35632674910338
+2004-02-29,Backtest Prediction,Random Forest,33.479064454251535
+2004-03-31,Backtest Prediction,Random Forest,32.73967806355255
+2004-04-30,Backtest Prediction,Random Forest,33.090497867604334
+2004-05-31,Backtest Prediction,Random Forest,33.751655029603455
+2004-06-30,Backtest Prediction,Random Forest,36.2503002346634
+2004-07-31,Backtest Prediction,Random Forest,36.893610223171684
+2004-08-31,Backtest Prediction,Random Forest,38.749899745821224
+2004-09-30,Backtest Prediction,Random Forest,42.08050276298026
+2004-10-31,Backtest Prediction,Random Forest,43.62559279974403
+2004-11-30,Backtest Prediction,Random Forest,48.250144179423316
+2004-12-31,Backtest Prediction,Random Forest,49.89014504519374
+2003-01-31,Backtest Prediction,Gradient Boosting,29.323027073894117
+2003-02-28,Backtest Prediction,Gradient Boosting,31.09826570465229
+2003-03-31,Backtest Prediction,Gradient Boosting,34.746896738379235
+2003-04-30,Backtest Prediction,Gradient Boosting,33.04482183905867
+2003-05-31,Backtest Prediction,Gradient Boosting,29.173395577496773
+2003-06-30,Backtest Prediction,Gradient Boosting,31.335507851276525
+2003-07-31,Backtest Prediction,Gradient Boosting,31.471335174153708
+2003-08-31,Backtest Prediction,Gradient Boosting,30.52052972576376
+2003-09-30,Backtest Prediction,Gradient Boosting,30.246995449771177
+2003-10-31,Backtest Prediction,Gradient Boosting,29.991225520585765
+2003-11-30,Backtest Prediction,Gradient Boosting,30.34503457881804
+2003-12-31,Backtest Prediction,Gradient Boosting,30.896099790725177
+2004-01-31,Backtest Prediction,Gradient Boosting,31.70180037401138
+2004-02-29,Backtest Prediction,Gradient Boosting,33.55162830512375
+2004-03-31,Backtest Prediction,Gradient Boosting,32.04554845794023
+2004-04-30,Backtest Prediction,Gradient Boosting,31.476096131090014
+2004-05-31,Backtest Prediction,Gradient Boosting,35.74772726203875
+2004-06-30,Backtest Prediction,Gradient Boosting,37.479479420637404
+2004-07-31,Backtest Prediction,Gradient Boosting,36.3756157421703
+2004-08-31,Backtest Prediction,Gradient Boosting,38.81444153949036
+2004-09-30,Backtest Prediction,Gradient Boosting,42.165259563188556
+2004-10-31,Backtest Prediction,Gradient Boosting,44.6952164819249
+2004-11-30,Backtest Prediction,Gradient Boosting,50.82332606981127
+2004-12-31,Backtest Prediction,Gradient Boosting,48.61799493057764
+2003-01-31,Backtest Prediction,Prophet,57.69223232827681
+2003-02-28,Backtest Prediction,Prophet,-549.7072130117895
+2003-03-31,Backtest Prediction,Prophet,639.5929880033754
+2003-04-30,Backtest Prediction,Prophet,34.26221718696047
+2003-05-31,Backtest Prediction,Prophet,-380.8937546708795
+2003-06-30,Backtest Prediction,Prophet,8.16412412652582
+2003-07-31,Backtest Prediction,Prophet,81.98312265556532
+2003-08-31,Backtest Prediction,Prophet,-121.53085424356142
+2003-09-30,Backtest Prediction,Prophet,100.94474563255409
+2003-10-31,Backtest Prediction,Prophet,124.44478820461234
+2003-11-30,Backtest Prediction,Prophet,-236.60012518827818
+2003-12-31,Backtest Prediction,Prophet,163.8177414053337
+2004-01-31,Backtest Prediction,Prophet,139.18317194364187
+2004-02-29,Backtest Prediction,Prophet,-265.6616443162302
+2004-03-31,Backtest Prediction,Prophet,19.777056317719257
+2004-04-30,Backtest Prediction,Prophet,174.68399590144992
+2004-05-31,Backtest Prediction,Prophet,-22.21034168569446
+2004-06-30,Backtest Prediction,Prophet,-453.19083702320296
+2004-07-31,Backtest Prediction,Prophet,176.36292743335466
+2004-08-31,Backtest Prediction,Prophet,-196.31923344171565
+2004-09-30,Backtest Prediction,Prophet,-24.59878470390879
+2004-10-31,Backtest Prediction,Prophet,11.282719349550177
+2004-11-30,Backtest Prediction,Prophet,95.56340564966222
+2004-12-31,Backtest Prediction,Prophet,33.697283832804146
+2025-09-30,Future Forecast,Linear Regression,72.255013240797
+2025-10-31,Future Forecast,Linear Regression,70.18289869368203
+2025-11-30,Future Forecast,Linear Regression,73.05221483069485
+2025-12-31,Future Forecast,Linear Regression,71.50307516185467
+2026-01-31,Future Forecast,Linear Regression,73.64768645479383
+2026-02-28,Future Forecast,Linear Regression,76.14209968628747
+2025-09-30,Future Forecast,Ridge Regression,71.3305432485302
+2025-10-31,Future Forecast,Ridge Regression,69.26001752935906
+2025-11-30,Future Forecast,Ridge Regression,73.21040471002541
+2025-12-31,Future Forecast,Ridge Regression,70.7183373399447
+2026-01-31,Future Forecast,Ridge Regression,74.46341042203298
+2026-02-28,Future Forecast,Ridge Regression,75.3073987500724
+2025-09-30,Future Forecast,Random Forest,66.62143771418054
+2025-10-31,Future Forecast,Random Forest,65.28353172164464
+2025-11-30,Future Forecast,Random Forest,66.93259161997226
+2025-12-31,Future Forecast,Random Forest,65.30146597056762
+2026-01-31,Future Forecast,Random Forest,64.65951179053495
+2026-02-28,Future Forecast,Random Forest,64.08103467057973
+2025-09-30,Future Forecast,Gradient Boosting,67.12129682614184
+2025-10-31,Future Forecast,Gradient Boosting,66.46093912855505
+2025-11-30,Future Forecast,Gradient Boosting,67.91233782791508
+2025-12-31,Future Forecast,Gradient Boosting,68.26025819748905
+2026-01-31,Future Forecast,Gradient Boosting,70.4509202842379
+2026-02-28,Future Forecast,Gradient Boosting,72.82715246397032
+2025-09-30,Future Forecast,Prophet,73.74171135245206
+2025-10-31,Future Forecast,Prophet,74.55082676012594
+2025-11-30,Future Forecast,Prophet,74.36327494448888
+2025-12-31,Future Forecast,Prophet,77.05646833467203
+2026-01-31,Future Forecast,Prophet,67.85433264231625
+2026-02-28,Future Forecast,Prophet,68.30353471516216
